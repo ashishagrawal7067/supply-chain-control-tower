@@ -1,0 +1,52 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Supply Chain Control Tower — .gitignore
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Large Raw Dataset & Database (too large for git; download separately) ────
+data/DataCoSupplyChainDataset.csv
+data/supply_chain.db
+
+# ── Python Virtual Environment ───────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Python Bytecode Cache ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# ── Distribution & Build Artifacts ──────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.iml
+*.swp
+*~
+
+# ── macOS System Files ────────────────────────────────────────────────────────
+.DS_Store
+__MACOSX/
+*._ *
+
+# ── Windows System Files ──────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+
+# ── Jupyter ────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Logs ────────────────────────────────────────────────────────────────────
+*.log
+
+# ── Temporary Files ──────────────────────────────────────────────────────────
+*.tmp
+*.bak
