@@ -222,3 +222,5 @@ if __name__ == "__main__":
 # fact_orders loading with FK validation
 
 # date normalization pass v2
+
+# dim_products and dim_customers loader
