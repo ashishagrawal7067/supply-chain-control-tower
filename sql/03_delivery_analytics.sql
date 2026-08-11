@@ -136,3 +136,5 @@ GROUP BY f.market, f.shipping_mode;
 
 
 -- route lead-time stats view
+
+-- profit erosion view added
