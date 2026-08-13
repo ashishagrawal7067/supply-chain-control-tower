@@ -125,3 +125,5 @@ HAVING SUM(f.profit_per_order) < 0 OR (100.0 * SUM(CASE WHEN f.profit_per_order 
 ORDER BY net_profit ASC;
 
 -- fix Pareto boundary edge case
+
+-- fix Pareto boundary edge case
