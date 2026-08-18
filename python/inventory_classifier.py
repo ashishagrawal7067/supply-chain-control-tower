@@ -258,3 +258,5 @@ if __name__ == "__main__":
 # ABC Pareto 80/15/5 thresholds
 
 # XYZ: CV = sigma/mu demand volatility model
+
+# 9-box matrix strategy labels
