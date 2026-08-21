@@ -252,3 +252,5 @@ if __name__ == "__main__":
 # edge case: zero lead-time variance floor
 
 # dual-variance stochastic formula Z=1.65
+
+# ROP = D_bar * L_bar + Safety_Stock
