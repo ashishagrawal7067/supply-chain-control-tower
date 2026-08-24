@@ -1121,3 +1121,5 @@ if __name__ == "__main__":
 # Sheet 5: IF() REORDER/OPTIMAL/OVERSTOCKED status flags
 
 # Sheet 6: Data Dictionary governance documentation
+
+# Sheet 1: Executive KPI cards
