@@ -1125,3 +1125,5 @@ if __name__ == "__main__":
 # Sheet 1: Executive KPI cards
 
 # Sheet 1: fulfillment route scorecard table
+
+# Sheet 1: profit erosion comparison table
