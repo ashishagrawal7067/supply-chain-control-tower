@@ -1129,3 +1129,5 @@ if __name__ == "__main__":
 # Sheet 1: profit erosion comparison table
 
 # Sheet 2: Monthly Performance Trends with live formulas
+
+# Sheet 3: Regional Heatmap 3-matrix layout
