@@ -1131,3 +1131,5 @@ if __name__ == "__main__":
 # Sheet 2: Monthly Performance Trends with live formulas
 
 # Sheet 3: Regional Heatmap 3-matrix layout
+
+# Sheet 3: ColorScaleRule 3-color gradient
