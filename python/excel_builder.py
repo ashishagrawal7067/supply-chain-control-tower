@@ -1133,3 +1133,5 @@ if __name__ == "__main__":
 # Sheet 3: Regional Heatmap 3-matrix layout
 
 # Sheet 3: ColorScaleRule 3-color gradient
+
+# Sheet 4: ABC-XYZ 3x3 matrix with COUNTIFS and SUMIFS
