@@ -1137,3 +1137,5 @@ if __name__ == "__main__":
 # Sheet 4: ABC-XYZ 3x3 matrix with COUNTIFS and SUMIFS
 
 # Sheet 4: SKU master roster with strategic policies
+
+# Sheet 5: SKU Reorder Simulator with XLOOKUP
