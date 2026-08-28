@@ -1139,3 +1139,5 @@ if __name__ == "__main__":
 # Sheet 4: SKU master roster with strategic policies
 
 # Sheet 5: SKU Reorder Simulator with XLOOKUP
+
+# Sheet 5: IF() status flags REORDER/OPTIMAL/OVERSTOCKED
