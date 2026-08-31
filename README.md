@@ -175,3 +175,5 @@ python python/main.py
 - **Author:** Built for Business Analyst Portfolio demonstration.
 
 <!-- README finalized 2026-08-31 -->
+
+<!-- Case study finalized 2026-08-31 -->
